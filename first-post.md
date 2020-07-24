@@ -2,4 +2,4 @@ Digital gardening is a mindset that helps me reconsider how I share my research 
 
 Gardens come in all shapes and sizes.
 
-This one is very simple.
+**This one is very simple.**
